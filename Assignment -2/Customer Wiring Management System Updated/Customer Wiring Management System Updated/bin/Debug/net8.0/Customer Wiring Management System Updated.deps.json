@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Customer Wiring Management System Updated/1.0.0": {
+        "runtime": {
+          "Customer Wiring Management System Updated.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Customer Wiring Management System Updated/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

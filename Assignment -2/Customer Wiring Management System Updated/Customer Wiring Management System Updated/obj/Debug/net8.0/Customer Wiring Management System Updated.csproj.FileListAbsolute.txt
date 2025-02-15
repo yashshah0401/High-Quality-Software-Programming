@@ -1,0 +1,14 @@
+D:\Customer Wiring Management System Updated\Customer Wiring Management System Updated\bin\Debug\net8.0\Customer Wiring Management System Updated.exe
+D:\Customer Wiring Management System Updated\Customer Wiring Management System Updated\bin\Debug\net8.0\Customer Wiring Management System Updated.deps.json
+D:\Customer Wiring Management System Updated\Customer Wiring Management System Updated\bin\Debug\net8.0\Customer Wiring Management System Updated.runtimeconfig.json
+D:\Customer Wiring Management System Updated\Customer Wiring Management System Updated\bin\Debug\net8.0\Customer Wiring Management System Updated.dll
+D:\Customer Wiring Management System Updated\Customer Wiring Management System Updated\bin\Debug\net8.0\Customer Wiring Management System Updated.pdb
+D:\Customer Wiring Management System Updated\Customer Wiring Management System Updated\obj\Debug\net8.0\Customer Wiring Management System Updated.GeneratedMSBuildEditorConfig.editorconfig
+D:\Customer Wiring Management System Updated\Customer Wiring Management System Updated\obj\Debug\net8.0\Customer Wiring Management System Updated.AssemblyInfoInputs.cache
+D:\Customer Wiring Management System Updated\Customer Wiring Management System Updated\obj\Debug\net8.0\Customer Wiring Management System Updated.AssemblyInfo.cs
+D:\Customer Wiring Management System Updated\Customer Wiring Management System Updated\obj\Debug\net8.0\Customer Wiring Management System Updated.csproj.CoreCompileInputs.cache
+D:\Customer Wiring Management System Updated\Customer Wiring Management System Updated\obj\Debug\net8.0\Customer Wiring Management System Updated.dll
+D:\Customer Wiring Management System Updated\Customer Wiring Management System Updated\obj\Debug\net8.0\refint\Customer Wiring Management System Updated.dll
+D:\Customer Wiring Management System Updated\Customer Wiring Management System Updated\obj\Debug\net8.0\Customer Wiring Management System Updated.pdb
+D:\Customer Wiring Management System Updated\Customer Wiring Management System Updated\obj\Debug\net8.0\Customer Wiring Management System Updated.genruntimeconfig.cache
+D:\Customer Wiring Management System Updated\Customer Wiring Management System Updated\obj\Debug\net8.0\ref\Customer Wiring Management System Updated.dll

@@ -1,0 +1,14 @@
+D:\ElectricianTaskManager\ElectricianTaskManager\bin\Debug\net8.0\ElectricianTaskManager.exe
+D:\ElectricianTaskManager\ElectricianTaskManager\bin\Debug\net8.0\ElectricianTaskManager.deps.json
+D:\ElectricianTaskManager\ElectricianTaskManager\bin\Debug\net8.0\ElectricianTaskManager.runtimeconfig.json
+D:\ElectricianTaskManager\ElectricianTaskManager\bin\Debug\net8.0\ElectricianTaskManager.dll
+D:\ElectricianTaskManager\ElectricianTaskManager\bin\Debug\net8.0\ElectricianTaskManager.pdb
+D:\ElectricianTaskManager\ElectricianTaskManager\obj\Debug\net8.0\ElectricianTaskManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\ElectricianTaskManager\ElectricianTaskManager\obj\Debug\net8.0\ElectricianTaskManager.AssemblyInfoInputs.cache
+D:\ElectricianTaskManager\ElectricianTaskManager\obj\Debug\net8.0\ElectricianTaskManager.AssemblyInfo.cs
+D:\ElectricianTaskManager\ElectricianTaskManager\obj\Debug\net8.0\ElectricianTaskManager.csproj.CoreCompileInputs.cache
+D:\ElectricianTaskManager\ElectricianTaskManager\obj\Debug\net8.0\ElectricianTaskManager.dll
+D:\ElectricianTaskManager\ElectricianTaskManager\obj\Debug\net8.0\refint\ElectricianTaskManager.dll
+D:\ElectricianTaskManager\ElectricianTaskManager\obj\Debug\net8.0\ElectricianTaskManager.pdb
+D:\ElectricianTaskManager\ElectricianTaskManager\obj\Debug\net8.0\ElectricianTaskManager.genruntimeconfig.cache
+D:\ElectricianTaskManager\ElectricianTaskManager\obj\Debug\net8.0\ref\ElectricianTaskManager.dll
