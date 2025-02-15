@@ -1,7 +1,7 @@
 ﻿/*
  * Author: Shah Yash Ketanbhai
  * Date: 15th February, 2025
- * Project: Customer Wiring Management System
+ * Project: Customer Wiring Management System Updated
  * Description: The Customer Wiring Management System is a C# code that will collect the customers details, 
  * classification of their building  and determining the appropriate wiring tasks. This code is created by using  
  * OOP concepts which include encapsulation, constructors, methods and enumerations.
