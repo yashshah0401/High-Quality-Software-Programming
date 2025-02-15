@@ -1,7 +1,7 @@
 ﻿/*
  * Author: Shah Yash Ketanbhai
  * Date: 15th February, 2025
- * Project: Customer Wiring Management System Updated
+ * Project: Customer Wiring Management System
  * Description: This code provides an overview of the updated Customer Wiring Management System, 
  * which will help to handle wiring requirements for different types of buildings. The code takes customer details, 
  * processes wiring tasks based on structure types, and ensures secure handling of sensitive information such 
